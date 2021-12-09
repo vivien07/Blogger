@@ -1,4 +1,4 @@
-#!/Users/admin/Desktop/FLASK/blog/env/bin/python
+#!/Users/admin/Desktop/FLASK/flask-blog/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
